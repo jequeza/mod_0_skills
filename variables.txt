@@ -14,4 +14,4 @@ songs ["I'm still standing","Out of Touch","Hands Up"]
 
 songs.shift
 
-foot.count
+food.count
